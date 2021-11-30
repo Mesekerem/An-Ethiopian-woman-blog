@@ -20,3 +20,29 @@ h1 {
     font-weight: 600;
   
 }
+.navbar {
+    background-color: #fffbe6;
+    border-color: #b39700;
+    
+}
+.nav-link {
+    color: #665600;
+    font-size: 1em;
+    letter-spacing: .75px;
+}
+.navbar-toggler  {
+    background-color: #665600 !important;
+
+
+    
+}
+
+.navbar-toggler-icon {
+    background-color: snow;
+    stroke: #b39700;
+}
+
+    
+
+
+
